@@ -23,7 +23,6 @@
 import 'package:flutter/material.dart';
 import '../circle_grid.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-
 import '../easy_loading.dart';
 import '../theme.dart';
 
